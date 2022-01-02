@@ -1,6 +1,6 @@
-¡Hola👋! Soy Valentina, estudiante de computación y actualmente desarrolladora frontend 👩‍💻.
+¡Hola👋! Soy Valentina, estudiante de computación y actualmente desarrolladora frontend utilizando React 👩‍💻.
 
-Aca comparto mis proyectos personales y así pueden ver mi código 🙋‍
+Aca comparto mis proyectos personales 🙋‍
 
 Tecnologías que uso:
 
