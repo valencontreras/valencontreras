@@ -4,9 +4,9 @@
 
 ### 👩‍💻 &nbsp;About Me
 
-💻 &nbsp; I'm a Front-end Developer using React \
+💻 &nbsp; I'm a Front-end Developer using React at Shokworks, Inc  \
 🎓 &nbsp; I'm currently studying the eighth semester at the Central University of Venezuela \
-📚 &nbsp; I like to take courses to improve or learn new skills \
+📚 &nbsp; I like to take courses to improve my skills or learn new skills \
 ✍️ &nbsp; In my free time, I bake desserts and enjoy family time 
 <!-- ✉️ &nbsp;You can email me at @gmail.com. I'll try to respond as soon as possible!\ -->
 <!-- 📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1CqJoOAelUgnIOMNHqZAlMxR0F3nRoJuo/view?usp=sharing) for more details about work experience. -->
